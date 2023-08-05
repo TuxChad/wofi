@@ -13,5 +13,5 @@ git clone https://github.com/TuxChad/wofi
 cd wofi
 cp * ~/.config/wofi/
 ```
-enjoy!
+enjoy! <br>
 Author : TuxChad(srinath)
